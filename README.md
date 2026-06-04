@@ -1,5 +1,7 @@
 # xblsdk — xb.live Homebrew SDK
 
+# Play the Test Game to see full feature set in action. Download in the release section --->>>
+
 A reusable **C / [nxdk](https://github.com/XboxDev/nxdk)** SDK for the original Xbox
 that lets homebrew games sign in to an **Insignia / xb.live** account via on-screen
 **QR code**, manage online sessions, and talk to the xb.live homebrew backend:

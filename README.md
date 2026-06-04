@@ -101,6 +101,4 @@ full [`docs/sdk-reference.md`](docs/sdk-reference.md). In short:
 
 ## License
 
-No license file is included yet. Add one before publishing publicly. Note that
-bundled `third_party/` sources (e.g. `qrcodegen`) carry their own upstream
-licenses — preserve their headers.
+No license.

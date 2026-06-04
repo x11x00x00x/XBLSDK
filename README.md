@@ -13,8 +13,7 @@ server-issued seed plus a compact input log, and the server re-runs the identica
 deterministic simulation before accepting anything. See
 [`docs/anti-cheat.md`](docs/anti-cheat.md).
 
-> Not affiliated with Microsoft or Insignia. Networking, QR, session storage, and
-> framebuffer/font helpers are generalized from the OG-XBL Cloud Save Backup app.
+> Not affiliated with Microsoft or Insignia.
 
 ## What's here
 

@@ -26,10 +26,7 @@ The game starts **pending**.
 
 ## 2. Approve + receive the secret (admin)
 
-An admin opens **Admin → Homebrew leaderboards** (`/admin-homebrew`), finds the
-pending game, and clicks **Approve & issue secret**. The server generates a random
-`game_secret`, stores it **encrypted at rest** (AES-256-GCM), and shows the
-plaintext **once**.
+An admin approves.
 
 > Copy the secret immediately — it is never shown again. Only the last 4 characters
 > remain visible afterward. Re-approving issues a new secret.
